@@ -6,7 +6,7 @@
   <a href="https://karthikeshportfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="[https://linkedin.com/in/m-karthikesh](https://www.linkedin.com/in/m-karthikesh-111222abc/)" target="_blank">
+  <a href="https://www.linkedin.com/in/m-karthikesh-111222abc/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
