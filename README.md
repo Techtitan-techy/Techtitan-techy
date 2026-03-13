@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Techtitan-techy! 👋</h1>
+<h1 align="center">Hi there, My Name is M karthikesh! 👋</h1>
 
 <p align="center">
   <strong>Passionate Developer | AI & Machine Learning Enthusiast | Tech for Good</strong>
