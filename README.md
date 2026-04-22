@@ -5,6 +5,7 @@
 ### Software Engineer | AI/ML Builder | Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=800&center=true&vCenter=true&width=800&lines=Building+recruiter-ready+software+and+ML+projects;Focused+on+Python%2C+Java%2C+JavaScript%2C+and+real-world+impact;Open+to+Software+Engineering+and+AI%2FML+internship+opportunities" alt="Typing intro" />
+<p><strong>Software Engineering & AI/ML candidate focused on Python, Java, JavaScript, and real-world impact.</strong></p>
 
 <br/>
 
@@ -14,7 +15,7 @@
 <a href="https://www.linkedin.com/in/m-karthikesh-111222abc/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:techtitan-techy@users.noreply.github.com">
+<a href="mailto:your.professional.email@example.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -90,5 +91,5 @@ Responsive portfolio website showcasing projects, technical profile, and profess
 ## Contact
 
 - **LinkedIn:** [m-karthikesh-111222abc](https://www.linkedin.com/in/m-karthikesh-111222abc/)
-- **Email:** [techtitan-techy@users.noreply.github.com](mailto:techtitan-techy@users.noreply.github.com)
+- **Email:** [your.professional.email@example.com](mailto:your.professional.email@example.com) *(replace with your active inbox)*
 - **Portfolio:** [karthikeshportfolio.netlify.app](https://karthikeshportfolio.netlify.app)
