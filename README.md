@@ -4,7 +4,7 @@
 
 ### Software Engineer | AI/ML Builder | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=800&center=true&vCenter=true&width=800&lines=Building+recruiter-ready+software+and+ML+projects;Focused+on+Python%2C+Java%2C+JavaScript%2C+and+real-world+impact;Open+to+Software+Engineering+and+AI%2FML+internship+opportunities" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=800&center=true&vCenter=true&width=800&lines=Focused+on+Python%2C+Java%2C+JavaScript%2C+and+real-world+impact;Open+to+Software+Engineering+and+AI%2FML+internship+opportunities" alt="Typing intro" />
 <p><strong>Software Engineering & AI/ML candidate focused on Python, Java, JavaScript, and real-world impact.</strong></p>
 
 <br/>
