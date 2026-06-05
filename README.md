@@ -91,5 +91,5 @@ Responsive portfolio website showcasing projects, technical profile, and profess
 ## Contact
 
 - **LinkedIn:** [m-karthikesh-111222abc](https://www.linkedin.com/in/m-karthikesh-111222abc/)
-- **Email:** [your.professional.email@example.com](mailto:karthikesh04.m@gmail.com) *(replace with your active inbox)*
+- **Email:** [karthikesh04.m@gmail.com](mailto:karthikesh04.m@gmail.com) *(replace with your active inbox)*
 - **Portfolio:** [karthikeshportfolio.netlify.app](https://karthikeshportfolio.netlify.app)
