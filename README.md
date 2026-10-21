@@ -4,8 +4,9 @@
 
 ![GitSkins profile hero for Techtitan-techy](https://www.gitskins.com/api/section/hero?username=Techtitan-techy&theme=github-dark&mode=dark)
 
-**Software Engineer • AI/ML Builder • Problem Solver**  
-Hyderabad, India
+**Software Engineer • AI/ML Developer • Backend-Oriented Problem Solver**  
+Building practical products with clear business value  
+Hyderabad, India • Open to internships and entry-level software roles
 
 <a href="https://karthikeshportfolio.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=About.me&logoColor=white" alt="Visit portfolio website" />
@@ -21,33 +22,50 @@ Hyderabad, India
 
 > If GitSkins visuals do not load, the profile details, projects, and links below still include all key information.
 
-## About
+## Recruiter Snapshot
 
-I’m a Computer Science Engineering (AI/ML) student focused on building practical software with Python, Java, and JavaScript. I enjoy solving real problems through backend logic, data-driven systems, and clear user experiences.
+- 🎯 **Target Roles:** Software Engineer Intern, Backend/Full-Stack Intern
+- 🧠 **Core Strengths:** Problem-solving, backend logic, applied AI/ML development
+- 🛠️ **Primary Stack:** Python, Java, JavaScript, React, Git/GitHub
+- 🤝 **Working Style:** Fast learner, ownership mindset, focus on practical outcomes
 
 ![GitSkins highlights for profile focus areas](https://www.gitskins.com/api/section/highlights?username=Techtitan-techy&theme=github-dark&items=Software%20Engineering::Backend%20logic%20and%20problem%20solving|AI%2FML::Data-driven%20project%20development|Hyderabad%2C%20India::Open%20to%20internship%20opportunities)
 
-## Skills & Tools
+## About Me
+
+I’m a Computer Science Engineering (AI/ML) student focused on translating ideas into working software. I enjoy building systems that are useful in real scenarios—especially where backend engineering, data, and user experience intersect.
 
 ![GitSkins language stack for Techtitan-techy](https://www.gitskins.com/api/section/stack?username=Techtitan-techy&theme=github-dark)
 
-- **Languages:** Python, Java, JavaScript
-- **Frameworks & Libraries:** React, Vite, Tailwind CSS
-- **Tools & Platforms:** Git, GitHub, Linux
+## Technical Toolkit
+
+- **Languages:** Python, Java, JavaScript  
+- **Frameworks/Libraries:** React, Vite, Tailwind CSS  
+- **Tools/Platforms:** Git, GitHub, Linux  
+- **Focus Areas:** Backend development, AI/ML applications, security-aware problem solving
 
 ## Featured Projects
 
 ### [SarkarSaathi](https://github.com/Techtitan-techy/SarkarSaathi)
-Voice-first assistant to improve accessibility of government schemes for broader public use.
+Voice-first assistant built to improve access to government schemes.
+- Prioritized accessibility and ease of use for broader public adoption.
 
 ### [API Abuse Detection](https://github.com/Techtitan-techy/API-Abuse-Detection)
-Security-focused project that identifies suspicious API usage patterns for better threat visibility.
+Security-focused project to detect suspicious API usage patterns.
+- Emphasizes practical threat visibility and defensive engineering mindset.
 
 ### [Crop Yield Prediction](https://github.com/Techtitan-techy/Crop_yield_prediction)
-Machine learning pipeline for agricultural yield estimation, including preprocessing and evaluation flow.
+Machine learning pipeline for crop yield estimation.
+- Includes preprocessing and evaluation workflow for reliable predictions.
 
 ### [Portfolio Website](https://karthikeshportfolio.netlify.app)
-Responsive portfolio showcasing projects, technical profile, and professional presence.
+Responsive personal portfolio presenting projects and technical profile in a recruiter-friendly format.
+
+## What I Bring to a Team
+
+- Strong fundamentals in software engineering and data-driven development  
+- Ability to quickly convert requirements into working prototypes  
+- Clear communication, consistent documentation, and continuous learning mindset
 
 ## GitHub Snapshot
 
@@ -58,3 +76,7 @@ Responsive portfolio showcasing projects, technical profile, and professional pr
 - Portfolio: https://karthikeshportfolio.netlify.app
 - LinkedIn: https://www.linkedin.com/in/m-karthikesh-111222abc/
 - Email: karthikesh04.m@gmail.com
+
+---
+
+If you’re hiring for an intern or entry-level developer role, I’d be glad to connect and discuss how I can contribute.
